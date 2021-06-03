@@ -1,1 +1,0 @@
-# TypingTestnow
