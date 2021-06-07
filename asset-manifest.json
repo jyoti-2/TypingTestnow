@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/jyoti-2/Typing-Testnow/static/css/main.70348b9a.chunk.css",
+    "main.js": "/jyoti-2/Typing-Testnow/static/js/main.5721d4de.chunk.js",
+    "main.js.map": "/jyoti-2/Typing-Testnow/static/js/main.5721d4de.chunk.js.map",
+    "runtime-main.js": "/jyoti-2/Typing-Testnow/static/js/runtime-main.df605638.js",
+    "runtime-main.js.map": "/jyoti-2/Typing-Testnow/static/js/runtime-main.df605638.js.map",
+    "static/js/2.d41f5e73.chunk.js": "/jyoti-2/Typing-Testnow/static/js/2.d41f5e73.chunk.js",
+    "static/js/2.d41f5e73.chunk.js.map": "/jyoti-2/Typing-Testnow/static/js/2.d41f5e73.chunk.js.map",
+    "index.html": "/jyoti-2/Typing-Testnow/index.html",
+    "static/css/main.70348b9a.chunk.css.map": "/jyoti-2/Typing-Testnow/static/css/main.70348b9a.chunk.css.map",
+    "static/js/2.d41f5e73.chunk.js.LICENSE.txt": "/jyoti-2/Typing-Testnow/static/js/2.d41f5e73.chunk.js.LICENSE.txt",
+    "static/media/hero.12ad6ef4.jpg": "/jyoti-2/Typing-Testnow/static/media/hero.12ad6ef4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df605638.js",
+    "static/js/2.d41f5e73.chunk.js",
+    "static/css/main.70348b9a.chunk.css",
+    "static/js/main.5721d4de.chunk.js"
+  ]
+}
